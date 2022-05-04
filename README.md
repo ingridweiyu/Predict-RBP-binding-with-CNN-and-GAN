@@ -18,3 +18,7 @@ Your directory tree should look like:
 │   ...
 ...
 ```
+
+## Run Demo Codes
+- RBP_CNN
+- RBP_GAN 
