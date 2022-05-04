@@ -4,4 +4,17 @@ My project will be focused on predicting RNA binding proteins, delving into the 
 
 ## Download Datasets
 - genome data hg38.pkl at https://drive.google.com/file/d/1ZtKUz5lrwhuMH5icDaG3u3NXWnUDpG8s/view?usp=sharing
-- ENCODE and rnbs_HNRNPK at https://drive.google.com/drive/folders/1yPlMC9BwU7HEdODtIstOZd31HX3aadcd. 
+- ENCODE and rnbs_HNRNPK at https://drive.google.com/drive/folders/1yPlMC9BwU7HEdODtIstOZd31HX3aadcd
+
+Your directory tree should look like:
+```
+<root>
+├── hg38.pkl
+├── datasets
+│   ├── ENCODE
+│   ├── rnbs_HNRNPK
+│   │   ├── HNRNPK_0.fasta.gz
+│   │   └── ...
+│   ...
+...
+```
